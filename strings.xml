@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HTN16</string>
+    <string name="prompt_word">Enter Word</string>
+    <string name="button_pronounce">Pronounce Word</string>
+    <string name="button_startrec">Start Recording</string>
+    <string name="button_stoprec">Stop Recording</string>
+    <string name="your_pronunciation">Your Pronunciation</string>
+    <string name="speech_prompt">Say the word</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+</resources>
